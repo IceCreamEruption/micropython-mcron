@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["mcron/__init__.py", "github:IceCreamEruption/micropython-mcron/mcron/__init__.py"],
+    ["mcron/decorators.py", "github:IceCreamEruption/micropython-mcron/mcron/decorators.py"]
+    ["mcron/version.py", "github:IceCreamEruption/micropython-mcron/mcron/version.py"]
+  ],
+  "version": "1.1.2"
+}
